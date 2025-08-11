@@ -49,7 +49,11 @@ Allows real-time monitoring when deployed into production systems.
 
 ## Author & Acknowledgments
 Author : Vanaj Kumar Yadav
+
 Special thanks to the evaluation feedback that guided model improvements and made the project more business-aligned.
+
 Email : yadavvanaj3@gmail.com
+
 Linkedin : https://www.linkedin.com/in/vanaj-kumar-yadav-86bb261b9/
+
 
